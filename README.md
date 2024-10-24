@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
+            <i class="devicon-javascript-plain colored"></i>
+          
 
 <!---
 Dowonor/Dowonor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
